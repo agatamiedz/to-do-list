@@ -1,17 +1,17 @@
 # to-do-list
 
-#1. About:
+# 1. About:
 
 The project was done during the course of react. It is simple "to do" list. You can add time and duty, mark it as done or remove from dashboard. There are the buttons to sort and clear the list and footer which calculate percentage of your duties done. 
 
-#2.Architecture:
+# 2.Architecture:
 
 -react,
 -javascript 
 -html
 -css
 
-#3.Development:
+# 3.Development:
 
 To run the project locally follow the steps:
 
